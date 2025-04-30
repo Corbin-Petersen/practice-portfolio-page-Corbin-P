@@ -1,0 +1,7 @@
+HEADER
+ - Contains the name and a brief tag line.
+
+ABOUT ME
+ - Includes a paragraph about themselves.
+ - A Skills Table: Displays a list of skills or tools with proficiency levels in a table format.
+4. A Contact Form: Allows visitors to send a message, including fields for the visitor's name, email, and message.
